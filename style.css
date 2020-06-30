@@ -6,5 +6,6 @@ h1#timer {
     color: white;
     font-family: Alata;
     font-size: 200px;
-    padding-left: 27%;
+    text-align: center;
+    /* padding-left: 27%; */
 }
