@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+
+h1#timer {
+    color: white;
+    font-family: Alata;
+    font-size: 200px;
+    padding-left: 27%;
+}
